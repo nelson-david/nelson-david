@@ -38,7 +38,7 @@ Software Developer
                       <a href="https://www.twitter.com/urbandev__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                      
 ![David Chika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-david&count_private=true&show_icons=true&theme=radical)
-[![David Chika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osotatanekeeni&theme=radical)](https://git.io/streak-stats)
+[![David Chika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nelson-david&theme=radical)](https://git.io/streak-stats)
 [![David Chika's github activity graph](https://activity-graph.herokuapp.com/graph?username=nelson-david&theme=rogue)](https://github.com/nelson-david/github-readme-activity-graph)
 
 
