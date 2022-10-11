@@ -11,10 +11,10 @@ Software Developer
 *   ⚡  Powered by Sprite👀 (not coffee...)
 
 <a href="https://www.twitter.com/urbandev__" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Tatanekari?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  src="https://img.shields.io/twitter/follow/urbandev__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
-                <a href="https://www.github.com/osotatanekeeni" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/osotatanekeeni?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                <a href="https://www.github.com/nelson-david" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/nelson-david?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills<p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -31,15 +31,15 @@ Software Developer
 ### Socials
 <p align="left">
                           
-<a href="https://www.facebook.com/osotatanekeeni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/osotatanekeeni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/osotatanekeeni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/osotatanekeeni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-                      <a href="https://www.twitter.com/Tatanekari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.facebook.com/urban.devv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/nelson-david" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/urbandev__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/david-nelson-298412189" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+                      <a href="https://www.twitter.com/urbandev__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                      
-![Osotatanekeeni's GitHub stats](https://github-readme-stats.vercel.app/api?username=osotatanekeeni&count_private=true&show_icons=true&theme=radical)
-[![Osotatanekeeni's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osotatanekeeni&theme=radical)](https://git.io/streak-stats)
-[![Osotatanekeeni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Osotatanekeeni&theme=rogue)](https://github.com/osotatanekeeni/github-readme-activity-graph)
+![David Chika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-david&count_private=true&show_icons=true&theme=radical)
+[![David Chika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osotatanekeeni&theme=radical)](https://git.io/streak-stats)
+[![David Chika's github activity graph](https://activity-graph.herokuapp.com/graph?username=nelson-david&theme=rogue)](https://github.com/nelson-david/github-readme-activity-graph)
 
 
-<a href="https://github.com/osotatanekeeni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osotatanekeeni&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nelson-david" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-david&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
